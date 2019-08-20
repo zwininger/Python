@@ -11,6 +11,7 @@ import re
 folder_path = "S:\\CIO\\Operations\\Middle Office\\Data\\13F\\"
 
 # File location of 13f PDF
+# Need to save PDF from https://www.sec.gov/divisions/investment/13flists.htm
 path = folder_path + "13f.pdf"
 
 # Create file object for PDF
