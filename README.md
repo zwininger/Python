@@ -3,3 +3,6 @@
 
 ##### 13F - Utility to extract all CUSIPs from quarterly 13F filing.
 ##### CFTC - Bitcoin Futures - Jupyter notebook to obtain Bitcoin futures from the CFTC and compare long/short positions among reportable and non-reportable positions
+
+## Google Colaboratory Notebooks
+[Economic Market Monitor](https://colab.research.google.com/drive/1PUR9nESFKTJ6fuzZSdnxPh7a8i5LmSPM)
