@@ -7,7 +7,7 @@
 
 ## Github Projects
 ##### 13F
-###### Utility to extract all CUSIPs from quarterly 13F filing.
+###### Utility to extract all CUSIPs from quarterly 13F filing and create easily digestible dataframe.
 ##### CFTC - Bitcoin Futures
 ###### Jupyter notebook to obtain Bitcoin futures from the CFTC and compare long/short positions among reportable and non-reportable positions
 
